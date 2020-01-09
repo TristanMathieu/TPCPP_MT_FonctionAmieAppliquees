@@ -1,0 +1,7 @@
+#gitignore CPP
+
+/vecteurMatriceEtFctAmies/.vs
+/vecteurMatriceEtFctAmies/Debug
+/vecteurMatriceEtFctAmies/vecteurMatriceEtFctAmies/Debug
+
+
